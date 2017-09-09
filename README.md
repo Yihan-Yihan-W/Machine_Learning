@@ -1,5 +1,6 @@
 # Machine_Learning
-# Supervised Machine Learning 
+Practices for Python package SciKit Learn
+## Supervised Machine Learning 
 
 K Nearest Neighbors:
   Supervised_knn_iris
