@@ -11,15 +11,14 @@ Practices for Python package SciKit Learn
 	Bayesian analysis: based on Bayes Theorem, make inferences about the world by combining domain knowldege or assumptions and observed evidence
 	
 	When fitting linear regression, should consider:
-	Linearity. The dependent variable  YY  is a linear combination of the regression coefficients and the independent variables  XX .
-	Constant standard deviation. The SD of the dependent variable  YY  should be constant for different values of X.
-	Normal distribution for errors. The  ϵϵ  term we discussed at the beginning are assumed to be normally distributed.
+	1. Linearity. The dependent variable  YY  is a linear combination of the regression coefficients and the independent variables  XX .
+	2. Constant standard deviation. The SD of the dependent variable  YY  should be constant for different values of X.
+	3. Normal distribution for errors. The  ϵϵ  term we discussed at the beginning are assumed to be normally distributed.
 	ϵi∼N(0,σ2)
 	ϵi∼N(0,σ2)
- 
-	Sometimes the distributions of responses  YY  may not be normally distributed at any given value of  XX . e.g. skewed positively or negatively.
-	Independent errors. The observations are assumed to be obtained independently.
-	e.g. Observations across time may be correlated
+ 		 Sometimes the distributions of responses  YY  may not be normally distributed at any given value of  XX . e.g. skewed positively or negatively.
+	4. Independent errors. The observations are assumed to be obtained independently.
+		e.g. Observations across time may be correlated
 
 ## Supervised Machine Learning 
 	1 KNN_digit_image: compare accuracy of image classification by n neighbors on training & test dataset.
