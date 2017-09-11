@@ -39,3 +39,10 @@ Practices for Python package SciKit Learn
 	tunning with RandomizedSearchCV for decision trees
 	
 	6 KNN SVC wine quality: scale, fit KNN, compare accuracy; Pipeline, scale, SVC, GridSearch
+	
+	useful note:
+	https://github.com/cs109/2015lab5/blob/master/Classification.ipynb
+	
+	My other mini machine learning projects:
+	https://github.com/Yihan-Yihan-W/SpingBoardDataScience/blob/master/Mini_Project_Linear_Regression.ipynb
+	https://github.com/Yihan-Yihan-W/SpingBoardDataScience/blob/master/Mini_Project_Logistic_Regression.ipynb
